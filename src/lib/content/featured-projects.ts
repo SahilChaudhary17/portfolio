@@ -7,7 +7,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
     {
       id: getId(),
       name: 'AuthentiCert',
-      description: 'A Certificate Platform.',
+      description: 'A credential verification system for the digital era.',
       tasks:
         'Independently designed and developed the entire platform from concept to deployment, implementing JWT authentication, creating a responsive UI with Tailwind, and building a scalable certificate generation system with secure verification features.',
       url: 'https://authenticert.vercel.app/',
