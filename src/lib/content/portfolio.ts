@@ -21,9 +21,9 @@ export const author = {
 };
 
 export const seoData = {
-  title: 'Sahil Chaudhary | Front-End Developer',
+  title: 'Sahil Chaudhary | Software Developer',
   description:
-    'Sahil Chaudhary is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'Sahil Chaudhary is a Software Developer who specializes in building (and occasionally designing) exceptional digital experiences.',
   author: author.name,
   image:
     'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',

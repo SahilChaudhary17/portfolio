@@ -40,8 +40,7 @@ const About = () => {
             .
           </p>
           <p>
-            My main focus these days is learning mobile development and finding
-            a decent job.
+            My main focus these days is learning integration of Generative AI into my full stack development.
           </p>
 
           {list && (
