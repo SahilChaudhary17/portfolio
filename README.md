@@ -13,7 +13,7 @@
 
 <br>
 
-[![My Portfolio](https://user-images.githubusercontent.com/90780802/457661524-201441b5-e46a-4798-aff8-2f5a49d3247b.png)](https://sahilchaudhary.vercel.app/)
+[![My Portfolio](https://raw.githubusercontent.com/SahilChaudhary17/portfolio/main/public/SahilChaudharyPortfolio.png)](https://sahilchaudhary.vercel.app/)
 
 ## Table of Contents
 
