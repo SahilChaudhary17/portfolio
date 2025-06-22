@@ -11,7 +11,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       tasks:
         'Independently designed and developed the entire platform from concept to deployment, implementing JWT authentication, creating a responsive UI with Tailwind, and building a scalable certificate generation system with secure verification features.',
       url: 'https://authenticert.vercel.app/',
-      img: 'https://raw.githubusercontent.com/SahilChaudhary17/portfolio/main/public/AuthentiCertHomePage.png',
+      img: '/AuthentiCertHomePage.png',
       tags: ['NextJs', 'TypeScript', 'TailwindCSS', 'JWT'],
     },
     // {
