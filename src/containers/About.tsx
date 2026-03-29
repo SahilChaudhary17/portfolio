@@ -24,23 +24,34 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Sahil Chaudhary, a full stack
-            web developer looking for SDE roles.
+            Hi, my name is Sahil Chaudhary. I'm a full-stack engineer at{' '}
+            <Link
+              href="https://www.infosys.com/"
+              target="_blank"
+              className="text-accent"
+            >
+              Infosys
+            </Link>
+            , building scalable web applications with Angular, React, and
+            TypeScript, focused on automating workflows and improving efficiency
+            and performance.
           </p>
           <p>
-            Fast-forward to today, and I’ve had the privilege of studying at a
-            Vellore Institute of Technology -{' '}
+            I graduated from{' '}
             <Link
               href="https://www.vitbhopal.ac.in/"
               target="_blank"
               className="text-accent"
             >
-              Bhopal Campus
-            </Link>
-            .
+              Vellore Institute of Technology
+            </Link>{' '}
+            in May 2025 with a cumulative GPA of 9.18.
           </p>
           <p>
-            My main focus these days is learning integration of Generative AI into my full stack development.
+            I care about shipping measurable impact through thoughtful UI,
+            solid engineering practices, and continuous learning, including
+            certifications such as Infosys AI Professional and AWS Cloud
+            Practitioner.
           </p>
 
           {list && (

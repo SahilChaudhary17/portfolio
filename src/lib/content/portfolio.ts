@@ -21,7 +21,7 @@ export const author = {
 };
 
 export const seoData = {
-  title: 'Sahil Chaudhary | Software Developer',
+  title: 'Sahil Chaudhary | Software Engineer',
   description:
     'Sahil Chaudhary is a Software Developer who specializes in building (and occasionally designing) exceptional digital experiences.',
   author: author.name,
