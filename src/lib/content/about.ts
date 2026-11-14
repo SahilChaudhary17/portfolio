@@ -5,13 +5,16 @@ export const aboutSection: AboutSectionType = {
     // Paragraphs need to be changed from containers/About.tsx
     // Because it wasn't possible to insert anchor tags like this
     list: {
-    title: 'Here are a few technologies I’ve been working with recently:',
+    title: 'Here are a few technologies I\'ve been working with recently:',
     items: [
         'TypeScript',
-        'Angular',
         'React',
         'Next.js',
+        'Python',
+        'Azure',
+        'Node.js',
         'MongoDB',
+        'Angular',
         'Azure DevOps',
         'TailwindCSS',
         'Figma',

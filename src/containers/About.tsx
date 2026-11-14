@@ -32,9 +32,10 @@ const About = () => {
             >
               Infosys
             </Link>
-            , building scalable web applications with Angular, React, and
-            TypeScript, focused on automating workflows and improving efficiency
-            and performance.
+            , building an enterprise RAG cybersecurity assistant used by 6,400+
+            people with React, TypeScript, Python, and Azure. I elevate that
+            experience in every release, so asking a question and reaching a
+            trustworthy answer feels straightforward.
           </p>
           <p>
             I graduated from{' '}
@@ -48,10 +49,12 @@ const About = () => {
             in May 2025 with a cumulative GPA of 9.18.
           </p>
           <p>
-            I care about shipping measurable impact through thoughtful UI,
-            solid engineering practices, and continuous learning, including
-            certifications such as Infosys AI Professional and AWS Cloud
-            Practitioner.
+            I care about shipping measurable impact through thoughtful UI and
+            solid engineering. Recent recognition includes the STG Rise Award
+            for Rookie of the Quarter and a Rise Insta client appreciation
+            award for migrating the product from Angular to React. I also hold
+            Claude Certified Architect, Google Cloud Digital Leader, and AWS 
+            Cloud Practitioner.
           </p>
 
           {list && (

@@ -11,8 +11,12 @@ export const experienceSection: ExperienceSectionType = {
         started: 'August 2025',
         upto: 'present',
         tasks: [
-        'Developed a scalable frontend using Angular and TypeScript, with modular architecture, reusable components, and responsive UI.',
-        'Designed and built an admin dashboard for a client to automate manual workflows, reducing operational effort through intuitive, UI-driven controls.',
+        'Delivered an enterprise RAG cybersecurity assistant used by 6,400+ people, where only 1 in 57 questions needs a human cyber expert.',
+        'Deployed the product in the client\'s Azure environment with Azure DevOps CI/CD, Azure AI Foundry, and Microsoft Entra ID.',
+        'Established AI-assisted workflows with GitHub Copilot, Cursor, and Claude Code, including a PR reviewer, cutting delivery from 10-14 days to 3-4 days.',
+        'Migrated the frontend from Angular to React independently, from the first screen through production.',
+        'Recognized with the STG Rise Award for Rookie of the Quarter (Jan-Mar 2026) for automation work and UX improvements on every release.',
+        'Awarded the Rise Insta Award for client appreciation (Sep 2026) for the Angular to React migration.',
         ],
     },
     {

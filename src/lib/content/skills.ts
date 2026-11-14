@@ -13,10 +13,10 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/frontend-dark.json',
         },
         points: [
-        'Building enterprise frontends with Angular and TypeScript, and product experiences with React, Next.js, and TypeScript',
-        'Developing end-to-end applications with Node.js, Express, and MongoDB where the stack calls for it',
-        'Creating responsive UIs with Tailwind CSS that work across devices',
-        'Collaborating with teams using Azure DevOps, Jira, and Git for delivery and code review',
+        'Building product experiences with React, TypeScript, and Next.js, including a full Angular-to-React migration',
+        'Developing Python APIs and end-to-end applications with Node.js, Express, Flask, and MongoDB',
+        'Shipping on Azure with Azure DevOps, Azure AI Foundry, and Microsoft Entra ID',
+        'Using AI-assisted workflows with GitHub Copilot, Cursor, and Claude Code to deliver faster',
         ],
         softwareSkills: [
           // iconify icons: https://icon-sets.iconify.design/
@@ -33,6 +33,7 @@ export const skillsSection: SkillsSectionType = {
         { name: 'mongodb', icon: 'devicon:mongodb' },
         { name: 'SQL', icon: 'vscode-icons:file-type-sql' },
         { name: 'python', icon: 'vscode-icons:file-type-python' },
+        { name: 'flask', icon: 'logos:flask' },
         { name: 'C++', icon: 'vscode-icons:file-type-cpp' },
         { name: 'azure devops', icon: 'vscode-icons:file-type-azure' },
         { name: 'AWS', icon: { light: 'logos:aws', dark: 'skill-icons:aws-light' } },
